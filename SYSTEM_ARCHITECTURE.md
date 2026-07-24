@@ -27,7 +27,8 @@ No module should perform the responsibilities of another module.
 
 # 2. High-Level Architecture
 
-                Browser
+ ```
+               Browser
                     │
                     ▼
            React Frontend
@@ -47,6 +48,8 @@ Merge    Vision AI   Layout Engine
             │
             ▼
       Optimized PDF Output
+
+```      
 
 ---
 
